@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
 <h3 align="center">Student • Linux enthusiast • Audio engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3nvan" alt="3nvan" /></a> </p>
-
 - 🔭 I’m currently working on **Full T2 support for MBP16,1**
 
 - 🌱 I’m currently learning **Linux Modules and t2 security**
